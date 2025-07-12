@@ -68,3 +68,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sadab-kibria&show_icons=true&theme=github_dark" alt="sadab-kibria" />
 </p>
 
+<p align="center"><em>"Code is like humor. When you have to explain it, it’s probably bad. But when it runs on the first try… check again."</em></p>
+
