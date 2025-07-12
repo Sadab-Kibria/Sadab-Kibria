@@ -68,11 +68,24 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sadab-kibria&show_icons=true&theme=github_dark" alt="sadab-kibria" />
 </p>
 
-<h3>📝 Random Dev Quote</h3>
 
-<blockquote style="background-color: #1e1e1e; color: #d4d4d4; padding: 1.2em; border-radius: 10px; font-style: italic; font-size: 1.1rem; border-left: 5px solid #00ff99;">
-  <p style="margin: 0; color: #a9f3c4;">“ We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.”</p>
-  <p style="text-align: right; margin-top: 0.8em; color: #ffffff;"><strong>– Donald Knuth</strong></p>
-</blockquote>
+
+### 📝 Random Dev Quote
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/left-speech-bubble_1f5e8-fe0f.png" width="20" />
+      <em>
+        <strong style="color:#00ff99">“</strong> 
+       It works on my machine. 
+        <strong style="color:#00ff99">”</strong>
+      </em>
+      <br />
+      <sub><strong> — Every Dev, Ever</strong></sub>
+    </td>
+  </tr>
+</table>
+
 
 
