@@ -68,6 +68,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sadab-kibria&show_icons=true&theme=github_dark" alt="sadab-kibria" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadab-kibria&theme=github_dark" alt="sadab-kibria" />
-</p>
