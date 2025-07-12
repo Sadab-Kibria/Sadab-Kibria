@@ -70,9 +70,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadab-kibria&theme=github_dark" alt="sadab-kibria" />
 </p>
-<p align="center">
-  <img src="https://github.com/sadab-kibria/sadab-kibria/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+
 
 
 
