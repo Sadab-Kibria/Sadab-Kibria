@@ -6,7 +6,7 @@
 
 <h3 align="center" style="font-size: 1.6rem;">A passionate frontend developer from Bangladesh</h3>
 
-<div style="font-size: 2rem; margin-top: 1rem;">
+<div style="font-size: 4rem; margin-top: 1rem;">
   <ul>
     <li>🔭 I’m currently working on <strong>React</strong> and <strong>Next.js</strong></li>
     <li>🌱 Learning <strong>C#</strong> and <strong>Unity</strong> to dive into Game Development</li>
