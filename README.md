@@ -68,5 +68,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sadab-kibria&show_icons=true&theme=github_dark" alt="sadab-kibria" />
 </p>
 
-<p align="center"><em>"Code is like humor. When you have to explain it, it’s probably bad. But when it runs on the first try… check again."</em></p>
+<h3>📝 Random Dev Quote</h3>
+
+<blockquote style="background-color: #1e1e1e; color: #d4d4d4; padding: 1.2em; border-radius: 10px; font-style: italic; font-size: 1.1rem; border-left: 5px solid #00ff99;">
+  <p style="margin: 0; color: #a9f3c4;">“ We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.”</p>
+  <p style="text-align: right; margin-top: 0.8em; color: #ffffff;"><strong>– Donald Knuth</strong></p>
+</blockquote>
+
 
