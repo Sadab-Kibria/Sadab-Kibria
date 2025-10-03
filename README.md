@@ -72,13 +72,13 @@
 
 ### 📝 Random Dev Quote
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td align="center" width="100%">
       <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/left-speech-bubble_1f5e8-fe0f.png" width="50" />
       <em>
         <strong style="color:#00ff99">“</strong> 
-       It works on my machine. 
+        It works on my machine. 
         <strong style="color:#00ff99">”</strong>
       </em>
       <br />
@@ -86,6 +86,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
