@@ -72,16 +72,8 @@
 
 ### 📝 Random Dev Quote
 
-<div align="center" style="width:100%; padding: 10px; border: 1px solid #ccc; margin: 0 auto;">
-  <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/left-speech-bubble_1f5e8-fe0f.png" width="40" />
-  <em>
-    <strong style="color:#00ff99">“</strong>
-     It works on my machine. 
-    <strong style="color:#00ff99">”</strong>
-  </em>
-  <br />
-  <sub><strong> — Every Dev, Ever</strong></sub>
-</div>
+[![Readme Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 
 
