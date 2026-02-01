@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="coding cat gif" width="400" height="250" />
 </p>
 
-<h3 align="center" style="font-size: 1.6rem;">A passionate Web Developer from Bangladesh 🇧🇩</h3>
+<h3 align="center" style="font-size: 1.6rem;">A passionate Web Developer from Bangladesh</h3>
 
 <div style="font-size: 1.6rem; margin-top: 1rem;">
   <ul>
