@@ -1,7 +1,5 @@
-<h1 align="center" style="font-size: 3rem;">Hey there, I'm Sadab Kibria</h1>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="coding cat gif" width="400" height="250" />
+  <img src="./github-header-banner.png" alt="Sadab Kibria" width="100%"/>
 </p>
 
 <h3 align="center" style="font-size: 1.6rem;">A passionate Web Developer from Bangladesh</h3>
