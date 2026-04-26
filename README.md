@@ -22,9 +22,6 @@
   <a href="https://instagram.com/sadab_kibria" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="36" />
   </a>
-  <a href="https://discord.gg/sadabkibria" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="36" />
-  </a>
   <a href="https://www.reddit.com/user/Tasty-Profile2418" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="36" />
   </a>
